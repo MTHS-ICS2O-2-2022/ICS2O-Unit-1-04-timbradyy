@@ -1,0 +1,42 @@
+/* Created by: Mr. Coxall
+* Created on: Sep 2020
+* This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
+*/
+body {
+  background-color: rgb(55, 0, 255);
+}
+h1 {
+  background-color: rgb(0, 132, 255);
+  color: hsl(239, 50%, 47%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #ffffff;
+}
+
+ul {
+  color: beige;
+}
+
+ul li::before {
+  content: "✅";
+}
+
+table {
+  border: solid thin;
+}
+
+th {
+  height: 2rem;
+  background: rgb(111, 64, 240);
+  border: 1px solid white;
+  text-align: left;
+}
+td {
+  height: 2rem;
+  background: lightblue;
+  border: 1px solid black;
+  text-align: center;
+}
