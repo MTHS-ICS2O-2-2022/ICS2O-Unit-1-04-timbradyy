@@ -1,5 +1,5 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Tim Brady
+* Created on: Feb 16
 * This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
 */
 body {
@@ -34,6 +34,7 @@ th {
   border: 1px solid white;
   text-align: left;
 }
+
 td {
   height: 2rem;
   background: lightblue;
