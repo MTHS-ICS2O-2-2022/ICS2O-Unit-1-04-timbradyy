@@ -3,10 +3,10 @@
 * This CSS file defines the style for index2.html ICS2O-Unit1-04-HTML-CSS
 */
 body {
-  background-color: rgb(55, 0, 255);
+  background-color: rgb(55 0 255);
 }
 h1 {
-  background-color: rgb(0, 132, 255);
+  background-color: rgb(0 132 255);
   color: hsl(239, 50%, 47%);
   padding: 40px;
   text-align: center;
@@ -30,7 +30,7 @@ table {
 
 th {
   height: 2rem;
-  background: rgb(111, 64, 240);
+  background: rgb(111 64 240);
   border: 1px solid white;
   text-align: left;
 }
