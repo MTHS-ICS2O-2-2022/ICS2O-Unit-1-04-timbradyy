@@ -13,7 +13,7 @@ img{
 
 h1 {
   background-color: rgb(255 0 0);
-  color: hsl(0, 0%, 0%);
+  color: hsl(0 0% 0%);
   padding: 40px;
   text-align: center;
 }
